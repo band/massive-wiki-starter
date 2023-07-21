@@ -31,7 +31,7 @@ Use double square brackets around words to make links to other pages in this wik
 - build: `./mwb.py -c ../mwb.yaml -w ../.. -o ../output -t ../this-wiki-themes/basso --lunr`
 - run your local web server on the `.massivewikibuilder/massivewikibuilder/output` folder
 
-### Install Explination
+### Install Explanation
 
 You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
 
